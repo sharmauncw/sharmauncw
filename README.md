@@ -25,10 +25,11 @@ Data Analytics Specialist in Institutional Research with a focus on higher-educa
 Planned public projects use synthetic or sanitized data only:
 
 - `higher-ed-retention-dashboard-demo`
-- `student-success-data-quality-checks`
 - `higher-ed-model-validation-notes`
-- `irp-reporting-templates`
 - `banner-datamart-sql-patterns`
+- `bad-chart-clinic` — Companion to Oct 2026 UNCW guest lecture: six deliberately bad charts, each fixed in Python with a teaching note.
+- `talking-resume-pipeline` — Turn a YAML resume into a narrated video: script generation, neural TTS, video assembly.
+- `enrollment-whatif-simulator` — Interactive Streamlit dashboard modeling enrollment levers on synthetic data.
 
 ## Working Principles
 
@@ -37,4 +38,3 @@ Planned public projects use synthetic or sanitized data only:
 - Validate models in ways that match operational use.
 - Make technical results understandable to nontechnical stakeholders.
 - Document assumptions, thresholds, and limitations clearly.
-
