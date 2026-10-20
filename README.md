@@ -11,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akankshaakshaykumarsharma)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E86AB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://uncw.edu/profiles/s/sharmaa)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmaa@uncw.edu)
+[![Résumé](https://img.shields.io/badge/Résumé-2E86AB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://sharmauncw.github.io/akanksha-sharma-resume.pdf)
 
 </div>
 
