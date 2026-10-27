@@ -19,7 +19,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW and a doctoral researcher at Trine. I build projects for predictive modeling, dashboard automation, and data quality improvement, and I care deeply about making technical results understandable to the nontechnical stakeholders who support students. Welcome to my corner of GitHub! 🌱
+I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW and a doctoral researcher at Trine. I build projects for predictive modeling, dashboard automation, and data quality improvement, and I care deeply about making technical results understandable to the nontechnical stakeholders who support students. Welcome to my corner of GitHub! 🌱  Designated Community Expert in AI Currents, UNCW's internal AI community on Viva Engage — one of six designated experts in a 103-member community.
 
 🔭 **Currently working on:** retention & persistence analytics, student-success risk modeling, and Power BI dashboards for institutional stakeholders.
 
