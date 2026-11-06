@@ -99,8 +99,12 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW a
 
 ## Public Portfolio Projects
 
-All public projects use synthetic or sanitized data only:
+Public projects use public, synthetic or sanitized data only. Start with the flagships:
 
+- `ipeds-outcomes-lab` — IPEDS Outcomes Lab: peer clustering, graduation-rate prediction (SHAP), and Pell equity analysis on the real federal IPEDS panel, 2015–2023. Institutional research, higher education data, machine learning.
+- `oulad-early-alert` — OULAD early-alert analysis: how early the first 14 days of learning engagement can flag students who will withdraw or fail (DS Lab Project 1).
+- `ask-the-control-tower` — Ask the Control Tower: plain-language Q&A over the verified IPEDS Outcomes Lab fact set (Meta AI Developer Hackathon entry).
+- The Gap Map (on my website) — every U.S. campus colored by its own Pell completion gap: https://sharmauncw.github.io/gap-map/
 - `higher-ed-retention-dashboard-demo`
 - `higher-ed-model-validation-notes`
 - `banner-datamart-sql-patterns`
