@@ -46,7 +46,7 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW a
 
 </div>
 
-**AI production — The AI Radar (my weekly AI explainer series):** Generative AI Video (Veo 3.1, Google Flow) · AI Avatar Design & Direction · Prompt Engineering · Video Production & Compositing (FFmpeg, Python/PIL) · Data Storytelling · Content Strategy · AI News Analysis · Audio Production · Editorial Verification · Voice & Audio Direction · Brand Identity & Logo Design · Animation & Performance Direction · Packaging & Retention Design
+**AI production — The AI Radar (my weekly AI explainer series):** Generative AI Video (Veo 3.1, Google Flow) · AI Avatar Design & Direction · Prompt Engineering · Video Production & Compositing (FFmpeg, Python/PIL) · Data Storytelling · Content Strategy · AI News Analysis · Audio Production · Editorial Verification · Voice & Audio Direction · Brand Identity & Logo Design · Animation & Performance Direction · Packaging & Retention Design · Trademark & Brand Protection · Intellectual Property Management
 
 ---
 
