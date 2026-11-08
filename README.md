@@ -41,8 +41,12 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW a
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![Veo 3.1](https://img.shields.io/badge/Veo_3.1-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 
 </div>
+
+**AI production — The AI Radar (my weekly AI explainer series):** Generative AI Video (Veo 3.1, Google Flow) · AI Avatar Design & Direction · Prompt Engineering · Video Production & Compositing (FFmpeg, Python/PIL) · Data Storytelling · Content Strategy · AI News Analysis · Audio Production · Editorial Verification
 
 ---
 
@@ -105,6 +109,7 @@ Public projects use public, synthetic or sanitized data only. Start with the fla
 - `oulad-early-alert` — OULAD early-alert analysis: how early the first 14 days of learning engagement can flag students who will withdraw or fail (DS Lab Project 1).
 - `ask-the-control-tower` — Ask the Control Tower: plain-language Q&A over the verified IPEDS Outcomes Lab fact set (Meta AI Developer Hackathon entry).
 - The Gap Map (on my website) — every U.S. campus colored by its own Pell completion gap: https://sharmauncw.github.io/gap-map/
+- **Rocky Presents — AI Avatar Explainer Series** (The AI Radar) — An animated AI presenter performs weekly data stories, acting each beat while real, verified data graphics are composited onto in-scene screens timed to her gestures. Built with Veo 3.1 native-dialogue generation, performance direction, and perspective-mapped data overlays.
 - `higher-ed-retention-dashboard-demo`
 - `higher-ed-model-validation-notes`
 - `banner-datamart-sql-patterns`
