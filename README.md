@@ -110,6 +110,10 @@ Public projects use public, synthetic or sanitized data only. Start with the fla
 - `ipeds-outcomes-lab` — IPEDS Outcomes Lab: peer clustering, graduation-rate prediction (SHAP), and Pell equity analysis on the real federal IPEDS panel, 2015–2023. Institutional research, higher education data, machine learning.
 - `oulad-early-alert` — OULAD early-alert analysis: how early the first 14 days of learning engagement can flag students who will withdraw or fail (DS Lab Project 1).
 - `ask-the-control-tower` — Ask the Control Tower: plain-language Q&A over the verified IPEDS Outcomes Lab fact set (Meta AI Developer Hackathon entry).
+
+- **Sharma Digital Studio** — my web studio for clinics and local businesses: websites that turn searches into bookings. First client delivered Nov 2026: Gathrika Skin Clinic (Hyderabad) — full website with live online booking and a staff dashboard: https://sharmauncw.github.io/gathrika/ · Studio: https://sharmauncw.github.io/sharma-digital-studio/
+
+- `nostos` — Nostos: a roommate-matching app built around a compatibility score — "Find your people. Come home." Live app with accounts, matching, and chat: https://sharmauncw.github.io/nostos/
 - The Gap Map (on my website) — every U.S. campus colored by its own Pell completion gap: https://sharmauncw.github.io/gap-map/
 - **Rocky Presents — AI Avatar Explainer Series** (The AI Radar) — An animated AI presenter performs weekly data stories, acting each beat while real, verified data graphics are composited onto in-scene screens timed to her gestures. Built with Veo 3.1 native-dialogue generation, performance direction, and perspective-mapped data overlays.
 - `higher-ed-retention-dashboard-demo`
