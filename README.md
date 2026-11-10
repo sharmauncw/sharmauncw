@@ -115,6 +115,7 @@ Public projects use public, synthetic or sanitized data only. Start with the fla
 - **Sharma Digital Studio** — my web studio for clinics and local businesses: websites that turn searches into bookings. First client delivered Nov 2026: Gathrika Skin Clinic (Hyderabad) — full website with live online booking and a staff dashboard: https://sharmauncw.github.io/gathrika/ · Studio: https://sharmauncw.github.io/sharma-digital-studio/
 
 - `nostos` — Nostos: a roommate-matching app built around a compatibility score — "Find your people. Come home." Live app with accounts, matching, and chat: https://sharmauncw.github.io/nostos/
+- `second-brain` — Second Brain: the markdown memory system my personal AI agent runs on — curated memory, a people index, verification gates, and a weekly promise audit. No database; just files that think. Clone it and give your agent a memory: https://github.com/sharmauncw/second-brain
 - The Gap Map (on my website) — every U.S. campus colored by its own Pell completion gap: https://sharmauncw.github.io/gap-map/
 - **Rocky Presents — AI Avatar Explainer Series** (The AI Radar) — An animated AI presenter performs weekly data stories, acting each beat while real, verified data graphics are composited onto in-scene screens timed to her gestures. Built with Veo 3.1 native-dialogue generation, performance direction, and perspective-mapped data overlays.
 - `higher-ed-retention-dashboard-demo`
