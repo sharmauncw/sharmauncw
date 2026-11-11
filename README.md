@@ -25,7 +25,7 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW a
 
 🔭 **Currently working on:** retention & persistence analytics, student-success risk modeling, and Power BI dashboards for institutional stakeholders.
 
-🏅 **Certifications:** IBM — Introduction to Cybersecurity Tools and Cyberattacks V3 ([Verify on Credly](https://www.credly.com/badges/1d53cb72-a946-4a34-abd3-6b1dfbfd119e)) · AWS Certified Cloud Practitioner
+🏅 **Certifications:** IBM — Operating Systems: Overview, Administration, and Security ([Verify on Coursera](https://coursera.org/verify/QIMPF1H09CY9)) · IBM — Introduction to Cybersecurity Tools and Cyberattacks V3 ([Verify on Credly](https://www.credly.com/badges/1d53cb72-a946-4a34-abd3-6b1dfbfd119e)) · AWS Certified Cloud Practitioner
 
 ---
 
