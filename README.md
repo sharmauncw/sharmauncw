@@ -29,6 +29,12 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research & Plannin
 
 ---
 
+## 📄 Manuscripts Under Review
+
+- **From Questions to Decisions: A Practitioner Framework for AI-Supported Analytics in Institutional Research.** Submitted to Trends in Higher Education (MDPI), Special Issue “Leadership and Management in Higher Education: New Directions and Global Trends.” Manuscript ID: higheredu-4738689. Status: submitted, under review (Nov 2026).
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
