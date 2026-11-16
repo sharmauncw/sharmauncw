@@ -2,9 +2,9 @@
 
 # Hi, I'm Akanksha Sharma 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Data+Analytics+Specialist+%40+UNCW;Doctoral+Researcher+%40+Trine;Power+BI+%C2%B7+SQL+%C2%B7+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Data+Analytics+Specialist+%40+UNCW;Doctoral+Student+%40+Trine;Power+BI+%C2%B7+SQL+%C2%B7+Python)](https://git.io/typing-svg)
 
-*Data Analytics Specialist in Institutional Research with a focus on higher-education analytics, student-success reporting, model validation, dashboard design, and data governance.*
+*Data Analytics Specialist in Institutional Research & Planning at UNC Wilmington. Higher-education analytics, student-success reporting, model validation, dashboard design, and data governance.*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sharmauncw&color=2E86AB&style=flat)
 
@@ -19,11 +19,11 @@
 
 ## 👩‍💻 About Me
 
-I'm Akanksha — a Data Analytics Specialist in Institutional Research at UNCW and a doctoral researcher at Trine. I build projects for predictive modeling, dashboard automation, and data quality improvement, and I care deeply about making technical results understandable to the nontechnical stakeholders who support students. Welcome to my corner of GitHub! 🌱  Designated Community Expert in AI Currents, UNCW's internal AI community on Viva Engage — one of six designated experts in a 103-member community.
+I'm Akanksha — a Data Analytics Specialist in Institutional Research & Planning at UNC Wilmington (UNCW), and a doctoral student at Trine University, where I'm earning my Doctor of Information Technology. I build projects for predictive modeling, dashboard automation, and data quality improvement, and I care deeply about making technical results understandable to the nontechnical stakeholders who support students. Welcome to my corner of GitHub! 🌱  Designated Community Expert in AI Currents, UNCW's internal AI community on Viva Engage — one of six designated experts in a 103-member community.
 
 📋 **Professional service:** Proposal Reviewer for the 2027 AIR Forum — the annual conference of the Association for Institutional Research.
 
-🔭 **Currently working on:** retention & persistence analytics, student-success risk modeling, and Power BI dashboards for institutional stakeholders.
+🔭 **Current focus:** retention and persistence analytics, student-success risk modeling, and Power BI dashboards — through the public projects below, which use public, synthetic, or sanitized data only.
 
 🏅 **Certifications:** IBM — Operating Systems: Overview, Administration, and Security ([Verify on Coursera](https://coursera.org/verify/QIMPF1H09CY9)) · IBM — Introduction to Cybersecurity Tools and Cyberattacks V3 ([Verify on Credly](https://www.credly.com/badges/1d53cb72-a946-4a34-abd3-6b1dfbfd119e)) · AWS Certified Cloud Practitioner
 
