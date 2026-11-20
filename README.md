@@ -114,9 +114,10 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research & Plannin
 
 Public projects use public, synthetic or sanitized data only. Start with the flagships:
 
-- `ipeds-outcomes-lab` — IPEDS Outcomes Lab: peer clustering, graduation-rate prediction (SHAP), and Pell equity analysis on the real federal IPEDS panel, 2015–2023. Institutional research, higher education data, machine learning.
+- `ipeds-outcomes-lab` — IPEDS Outcomes Lab: peer clustering, graduation-rate prediction (SHAP), published model error analysis, and Pell equity analysis on the real federal IPEDS panel, 2015–2023. Institutional research, higher education data, machine learning.
 - `enrollment-cliff-atlas` — The Enrollment Cliff Atlas: open public-data project mapping, campus by campus, what the coming drop in high school graduates means for North Carolina's public colleges. Built from NC DPI, WICHE, and IPEDS public data. Open to contributors: https://github.com/sharmauncw/enrollment-cliff-atlas
 - `oulad-early-alert` — OULAD early-alert analysis: how early the first 14 days of learning engagement can flag students who will withdraw or fail (DS Lab Project 1).
+- `airline-ontime-bts` — US Airline On-Time Performance: all 7,079,061 US domestic flights of 2024 (BTS) scored by month, departure hour, and carrier — October the calmest month (86.8% on time), July the worst (70.4%).
 - `ask-the-control-tower` — Ask the Control Tower: plain-language Q&A over the verified IPEDS Outcomes Lab fact set (Meta AI Developer Hackathon entry).
 
 - **Sharma Digital Studio** — my web studio for clinics and local businesses: websites that turn searches into bookings. First client delivered Nov 2026: a skin clinic (Hyderabad) — full website with live online booking, a staff dashboard, and desk booking for phone/walk-in appointments · Studio: https://sharmauncw.github.io/sharma-digital-studio/ · Nov 2026 reliability pass: found and fixed a silent booking failure (a booking could appear confirmed when the clinic never received it) — live and verified.
