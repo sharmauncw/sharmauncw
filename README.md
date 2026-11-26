@@ -21,7 +21,7 @@
 
 I'm Akanksha — a Data Analytics Specialist in Institutional Research & Planning at UNC Wilmington (UNCW), and a doctoral student at Trine University, where I'm earning my Doctor of Information Technology. I build projects for predictive modeling, dashboard automation, and data quality improvement, and I care deeply about making technical results understandable to the nontechnical stakeholders who support students. Welcome to my corner of GitHub! 🌱  Designated Community Expert in AI Currents, UNCW's internal AI community on Viva Engage — one of six designated experts in a 103-member community.
 
-📋 **Professional service:** Proposal Reviewer for the 2027 AIR Forum — the annual conference of the Association for Institutional Research.
+📋 **Professional service:** Proposal Reviewer for the 2027 AIR Forum — the annual conference of the Association for Institutional Research; completed all 10 assigned proposal reviews ahead of the November 15, 2026 deadline.
 
 🔭 **Current focus:** retention and persistence analytics, student-success risk modeling, and Power BI dashboards — through the public projects below, which use public, synthetic, or sanitized data only.
 
@@ -32,6 +32,14 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research & Plannin
 ## 📄 Manuscripts Under Review
 
 - **From Questions to Decisions: A Practitioner Framework for AI-Supported Analytics in Institutional Research.** Submitted to Trends in Higher Education (MDPI), Special Issue “Leadership and Management in Higher Education: New Directions and Global Trends.” Manuscript ID: higheredu-4738689. Status: submitted, under review (Nov 2026).
+
+---
+
+## 🏆 Competitions
+
+- **Codegeist 2026** — Atlassian's global hackathon ($120,000 prize pool). Registered solo entrant; building **Outcomes Compass**, a Forge app that turns the IPEDS Outcomes Lab into a guided planning tool. Deadline: December 22, 2026.
+- **TCS CodeVita Season 14** — registered (akankshasharma9292); Round 1 in December 2026.
+- **Meta AI Developer Hackathon** — entered with `ask-the-control-tower`, a plain-language Q&A over the verified IPEDS Outcomes Lab fact set.
 
 ---
 
@@ -119,6 +127,7 @@ Public projects use public, synthetic or sanitized data only. Start with the fla
 - `oulad-early-alert` — OULAD early-alert analysis: how early the first 14 days of learning engagement can flag students who will withdraw or fail (DS Lab Project 1).
 - `airline-ontime-bts` — US Airline On-Time Performance: all 7,079,061 US domestic flights of 2024 (BTS) scored by month, departure hour, and carrier — October the calmest month (86.8% on time), July the worst (70.4%).
 - `ask-the-control-tower` — Ask the Control Tower: plain-language Q&A over the verified IPEDS Outcomes Lab fact set (Meta AI Developer Hackathon entry).
+- **IR Control Tower** — live public dashboard: Pell completion gaps by Carnegie classification and by completion horizon, every figure sourced from IPEDS Outcome Measures: https://sharmauncw.github.io/control-tower/
 
 - **Sharma Digital Studio** — my web studio for clinics and local businesses: websites that turn searches into bookings. First client delivered Nov 2026: a skin clinic (Hyderabad) — full website with live online booking, a staff dashboard, and desk booking for phone/walk-in appointments · Studio: https://sharmauncw.github.io/sharma-digital-studio/ · Nov 2026 reliability pass: found and fixed a silent booking failure (a booking could appear confirmed when the clinic never received it) — live and verified.
 
