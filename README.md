@@ -38,7 +38,7 @@ I'm Akanksha — a Data Analytics Specialist in Institutional Research & Plannin
 ## 🏆 Competitions
 
 - **Codegeist 2026** — Atlassian's global hackathon ($120,000 prize pool). Registered solo entrant; building **Outcomes Compass**, a Forge app that turns the IPEDS Outcomes Lab into a guided planning tool. Deadline: December 22, 2026.
-- **TCS CodeVita Season 14** — registered (akankshasharma9292); Round 1 in December 2026.
+- **TCS CodeVita Season 14** — registered (akankshasharma9292); Round 1 window confirmed Dec 11–12, 2026; attendance confirmed.
 - **Meta AI Developer Hackathon** — entered with `ask-the-control-tower`, a plain-language Q&A over the verified IPEDS Outcomes Lab fact set.
 
 ---
